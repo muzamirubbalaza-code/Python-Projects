@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. Which one of those is NOT a programming language?",
+      "Q2. Which one of those is a Database language?",
+      "Q3. Which language provides a safe version of JavaSript language?",
+      "Q4. Get the odd man out!"
+    ],
+    "answer": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "options": [
+  
+      ["Java",
+        "Python",
+        "JavaScript",
+        "JSX"
+      ],
+      ["SQL",
+        "MySQL",
+        "MongoDB",
+        "Supabase"
+      ],
+      ["PHP",
+        "TypeScript",
+        "R",
+        "Node.js"
+      ],
+      ["Machine Learning",
+        "Deep Learning",
+        "Cloud Computing",
+        "Ai"
+      ]
+    ]
+  }
